@@ -1,0 +1,6 @@
+{
+  "name": "設計工單管理系統",
+  "description": "縮短 Account 與設計團隊溝通時間的設計工單管理系統，支援工單指派、進度追蹤、留言討論與附件管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
